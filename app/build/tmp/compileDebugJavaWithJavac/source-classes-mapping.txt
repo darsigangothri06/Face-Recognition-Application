@@ -1,0 +1,17 @@
+com/example/faceDetectionLGMVIPTaskTwo/Helper/RectOverlay.java
+ com.example.faceDetectionLGMVIPTaskTwo.Helper.RectOverlay
+com/example/faceDetectionLGMVIPTaskTwo/Helper/GraphicOverlay.java
+ com.example.faceDetectionLGMVIPTaskTwo.Helper.GraphicOverlay
+ com.example.faceDetectionLGMVIPTaskTwo.Helper.GraphicOverlay$Graphic
+com/example/faceDetectionLGMVIPTaskTwo/BuildConfig.java
+ com.example.faceDetectionLGMVIPTaskTwo.BuildConfig
+com/example/faceDetectionLGMVIPTaskTwo/startActivity.java
+ com.example.faceDetectionLGMVIPTaskTwo.startActivity
+ com.example.faceDetectionLGMVIPTaskTwo.startActivity$1
+ com.example.faceDetectionLGMVIPTaskTwo.startActivity$2
+com/example/faceDetectionLGMVIPTaskTwo/MainActivity.java
+ com.example.faceDetectionLGMVIPTaskTwo.MainActivity
+ com.example.faceDetectionLGMVIPTaskTwo.MainActivity$1
+ com.example.faceDetectionLGMVIPTaskTwo.MainActivity$2
+ com.example.faceDetectionLGMVIPTaskTwo.MainActivity$3
+ com.example.faceDetectionLGMVIPTaskTwo.MainActivity$4
